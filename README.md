@@ -9,6 +9,8 @@ I learned programming from scratch in 6 months and developed many full-blown app
 
 Also got an opportunity to work on real world project - [**The Idealists**](https://github.com/dashakrolik/Idealists-client)
 
+Currently I am working in CGI Nederlands (IT Services and IT Consulting). My Client is ING Bank Nederlands.
+
 - 📫 Feel free to reach me:[LinkedIn](https://www.linkedin.com/in/supriya-shekar88/)
 
 
